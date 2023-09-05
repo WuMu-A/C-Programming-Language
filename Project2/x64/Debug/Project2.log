@@ -1,0 +1,4 @@
+﻿  fahr.c
+G:\C-Programming-Language\C-Programming-Language\Project1\fahr.c(11,12): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+G:\C-Programming-Language\C-Programming-Language\Project1\fahr.c(13,32): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Project2.vcxproj -> G:\C-Programming-Language\C-Programming-Language\Project1\x64\Debug\Project2.exe
